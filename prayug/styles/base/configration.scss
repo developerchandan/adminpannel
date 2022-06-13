@@ -1,0 +1,10 @@
+body, 
+.p-component{
+    font-family: "Rubik", sans-serif;
+}
+a{
+    text-decoration: none;
+}
+ui{
+    @include reset-list;
+}
